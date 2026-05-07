@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">
-  Tử Tử là Sinh
+  Tử Tử tức Sinh
 </h1>
 
 <p align="center">
@@ -141,7 +141,7 @@ Dans la culture sino-vietnamienne, le chiffre **4** ressemble phonétiquement à
 
 Mais la double mort n'est pas mourir deux fois. La double mort, c'est la **renaissance**.
 
-**死死是生 — Tử Tử là Sinh — La Double Mort est la Vie.**
+**死死即生 — Tử Tử tức Sinh — La Double Mort est la Vie.**
 
 Sisyphe meurt une première fois quand il comprend l'absurde. Il meurt une deuxième fois quand il comprend que sa réponse à l'absurde n'est pas la révolte, mais la joie. Et de cette deuxième mort, Camus fait naître l'homme libre.
 
@@ -328,7 +328,7 @@ Cette philosophie se tient sur les épaules de :
     Non parce que nous avons choisi ce nombre.<br>
     Parce que le nombre s'est choisi lui-même.<br>
     <br>
-    <strong>死死是生</strong>
+    <strong>死死即生</strong>
   </samp>
 </p>
 

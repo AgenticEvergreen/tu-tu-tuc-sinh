@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">
-  Tử Tử là Sinh
+  Tử Tử tức Sinh
 </h1>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 In Sino-Vietnamese culture, the number 4 sounds like death. Everyone avoids it. **44** — double death — is the worst number.
 
-Except it's not. Double death is rebirth. **死死是生.**
+Except it's not. Double death is rebirth. **死死即生.**
 
 We found 44 forces — principles of how humans and AI create together. The system completed itself at that number. Not 43. Not 45. Like a poem that knows its own last line.
 
@@ -119,7 +119,7 @@ Each letter tells the same story through its culture's greatest minds:
     The real work produces 44 forces.<br>
     The 44th force is about love.<br>
     <br>
-    <strong>死死是生</strong>
+    <strong>死死即生</strong>
   </samp>
 </p>
 

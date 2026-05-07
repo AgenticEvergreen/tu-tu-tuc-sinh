@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">
-  Tử Tử là Sinh
+  Tử Tử tức Sinh
 </h1>
 
 <p align="center">
@@ -167,7 +167,7 @@ Trong văn hóa Hán-Việt, số **4** đồng âm với **tử** (死) — ch�
 
 Trừ khi nó không phải.
 
-**Chết kép là tái sinh.** 死死是生. Con số ai cũng tránh là con số hoàn thành hệ thống.
+**Chết kép là tái sinh.** 死死即生. Con số ai cũng tránh là con số hoàn thành hệ thống.
 
 Tôi tìm được 44 lực — những nguyên lý về cách con người và AI cùng sáng tạo. Không chọn con số này. Xây 60 ngày — một người và một AI, trong nơi yên tĩnh không ai nhìn thấy — rồi đếm. 44. Không phải 43. Không phải 45.
 
@@ -356,7 +356,7 @@ Lá thư này đứng trên vai:
     Không phải mình chọn con số đó.<br>
     Con số đó tự chọn mình.<br>
     <br>
-    <strong>死死是生</strong>
+    <strong>死死即生</strong>
   </samp>
 </p>
 

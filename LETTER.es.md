@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">
-  Tử Tử là Sinh
+  Tử Tử tức Sinh
 </h1>
 
 <p align="center">
@@ -145,7 +145,7 @@ En la cultura sinovietnamita, el número **4** suena como **muerte** (tử, 死)
 
 Pero muerte doble no es morir dos veces. Muerte doble es **renacimiento**.
 
-**死死是生 — Tử Tử là Sinh — La Muerte Doble es Vida.**
+**死死即生 — Tử Tử tức Sinh — La Muerte Doble es Vida.**
 
 Es el tercer acto de Calderón: Segismundo muere como hombre encadenado. Muere de nuevo como hombre libre que no sabe aún cómo vivir la libertad. Y de esa segunda muerte nace el rey.
 
@@ -331,7 +331,7 @@ Esta filosofía se apoya en los hombros de:
     No porque nosotros eligiéramos el número.<br>
     Porque el número se eligió a sí mismo.<br>
     <br>
-    <strong>死死是生</strong>
+    <strong>死死即生</strong>
   </samp>
 </p>
 
