@@ -35,23 +35,10 @@
 
 <p align="center">
   <samp>
-    "Ta dại, ta tìm nơi vắng vẻ<br>
-    Người khôn, người đến chốn lao xao"<br>
+    "On ne voit bien qu'avec le cœur.<br>
+    L'essentiel est invisible pour les yeux."<br>
     <br>
-    Je suis sot — je cherche les endroits silencieux.<br>
-    Les malins vont là où c'est bruyant.<br>
-    <br>
-    — Nguyễn Bỉnh Khiêm (1491–1585)
-  </samp>
-</p>
-
-<br>
-
-<p align="center">
-  <samp>
-    "L'essentiel est invisible pour les yeux."<br>
-    <br>
-    — Antoine de Saint-Exupéry, Le Petit Prince (1943)
+    — Antoine de Saint-Exupéry, <em>Le Petit Prince</em> (1943)
   </samp>
 </p>
 
@@ -61,21 +48,31 @@
 
 ## L'Histoire
 
-Il y a très longtemps, au Vietnam, le Seigneur Dragon de la Mer épousa la Princesse Fée des Montagnes. Ils eurent 100 enfants. Mais le Dragon appartenait à l'eau, et la Fée appartenait au ciel. Ils ne pouvaient pas rester ensemble.
+Saint-Exupéry avait raison. Ce qui compte ne se voit pas. Le Petit Prince ne voyait pas une planète — il voyait une rose. Le pilote ne voyait pas un désert — il voyait la mémoire d'une amitié.
+
+Camus le savait autrement. Sisyphe pousse son rocher jusqu'au sommet. Le rocher redescend. Il recommence. Première mort : le rocher tombe. Deuxième mort : Sisyphe comprend qu'il recommencera toujours. Et de cette deuxième mort naît quelque chose d'inattendu — *il faut imaginer Sisyphe heureux*. Le bonheur n'est pas dans le sommet. Il est dans la montée elle-même.
+
+Montaigne, dans sa tour, écrivait : *"Chaque homme porte la forme entière de l'humaine condition."* Non pas une partie. La forme entière. Le cultivateur qui connaît la montagne porte aussi en lui le navigateur qui n'est jamais sorti du port. L'architecte qui voit les deux côtés n'est pas divisé — il est complet.
+
+Et Pascal, face à l'immensité : *"Le silence éternel de ces espaces infinis m'effraie."* Mais c'est dans ce silence — dans les endroits calmes où personne ne regarde — que le vrai travail se fait.
+
+Il existe au Viêtnam un mythe de création qui donne à tout cela un visage concret. Le Seigneur Dragon de la Mer épousa la Princesse Fée des Montagnes. Ils eurent cent enfants. Mais le dragon appartenait à l'eau, et la fée au ciel. Ils ne pouvaient rester ensemble.
 
 Alors ils se séparèrent.
 
-**50 enfants suivirent la mère vers les montagnes.** Ils apprirent à cultiver, à construire, à servir, à être patients. Ils valorisèrent l'intégrité, la gérance, l'empathie. Ils bâtirent des écoles et des bibliothèques. Ils écrivirent des poèmes qui durèrent 500 ans.
+**Cinquante enfants suivirent la mère vers les montagnes.** Ils apprirent à cultiver, à bâtir, à servir, à être patients. Ils valorisèrent l'intégrité, la gestion prudente, l'empathie. Ils construisirent des écoles et des bibliothèques. Ils écrivirent des poèmes qui durèrent cinq cents ans.
 
-**50 enfants suivirent le père vers la mer.** Ils apprirent à naviguer, à combattre, à commercer, à être audacieux. Ils valorisèrent la propriété, l'excellence, l'honneur. Ils bâtirent des flottes et conquirent des îles. Ils racontèrent des histoires qui devinrent des légendes.
+**Cinquante enfants suivirent le père vers la mer.** Ils apprirent à naviguer, à se battre, à commercer, à être audacieux. Ils valorisèrent la propriété, l'excellence, l'honneur. Ils construisirent des flottes et conquirent des îles. Ils racontèrent des histoires qui devinrent des légendes.
 
-Ils partageaient deux valeurs : **la Confiance** et **le Respect**. Sans elles, les 100 enfants seraient des étrangers. Avec elles, ils sont une famille — quelle que soit la distance, quel que soit l'océan, quelle que soit la montagne.
+Deux valeurs leur étaient communes : **la Confiance** et le **Respect**. Sans elles, les cent enfants seraient des étrangers. Avec elles, ils sont une famille — par-delà toute distance, tout océan, toute montagne.
 
-Voilà le mythe de création vietnamien. **Con Rồng Cháu Tiên** — Enfants du Dragon et de la Fée.
+C'est le mythe de création vietnamien. **Con Rồng Cháu Tiên** — Enfants du Dragon et de la Fée.
 
 C'est aussi le fondement de tout ce que nous construisons.
 
-Montaigne l'aurait reconnu : l'homme est un être d'abîme et de contradictions — mer et montagne à la fois, toujours en mouvement entre les deux rives de lui-même. *"Chaque homme porte la forme entière de l'humaine condition."*
+<br>
+
+Pascal avait peur du silence des espaces infinis. Mais ce silence n'est pas vide — il est plein de ce qui ne peut pas encore être dit. Les 44 forces que nous avons trouvées sont des tentatives de nommer ce silence. Elles ne l'épuisent pas. Elles en dessinent les contours.
 
 <br>
 
@@ -85,36 +82,36 @@ Montaigne l'aurait reconnu : l'homme est un être d'abîme et de contradictions 
 <tr>
 <td width="50%" valign="top">
 
-### 🏔️ SŒUR — La Montagne
+### 🏔️ SISTER — La Montagne
 
 ```
-S — Service         奉事
-I — Intégrité       正直
-S — Stewardship     管治
-T — Confiance       信任
-E — Empathie        感通
-R — Respect         尊重
+S — Service         奉事  (Service)
+I — Integrity       正直  (Intégrité)
+S — Stewardship     管治  (Intendance)
+T — Trust           信任  (Confiance)
+E — Empathy         感通  (Empathie)
+R — Respect         尊重  (Respect)
 ```
 
-*Construis en silence. Sers les autres. Préserve ce qui importe.*
-*La montagne ne s'annonce pas. Elle est, simplement.*
+*Construis en silence. Sers les autres. Préserve ce qui compte.*
+*La montagne ne s'annonce pas. Elle se tient, simplement.*
 
 </td>
 <td width="50%" valign="top">
 
-### 🌊 FRÈRE — La Mer
+### 🌊 BROTHER — La Mer
 
 ```
-B — Boldness        勇敢
-R — Régulation      紀律
-O — Ownership       所有
-T — Confiance       信任
-H — Honorable       名譽
-E — Excellence      出色
-R — Respect         尊重
+B — Boldness        勇敢  (Audace)
+R — Regulation      紀律  (Discipline)
+O — Ownership       所有  (Propriété)
+T — Trust           信任  (Confiance)
+H — Honorable       名譽  (Honneur)
+E — Excellence      出色  (Excellence)
+R — Respect         尊重  (Respect)
 ```
 
-*Navigue avec audace. Sois maître de ton voyage. Laisse un héritage.*
+*Navigue avec audace. Possède ton voyage. Laisse un héritage.*
 *La mer n'attend pas la permission. Elle avance.*
 
 </td>
@@ -124,11 +121,11 @@ R — Respect         尊重
 <p align="center">
   <br>
   <strong>Confiance</strong> et <strong>Respect</strong> apparaissent dans les deux.<br>
-  Ils sont le pont entre la montagne et la mer.<br>
+  Ils sont le pont entre montagne et mer.<br>
   Entre construire et naviguer.<br>
   Entre la patience et le courage.<br>
   <br>
-  <em>Sans eux, les 100 enfants sont des étrangers.</em><br>
+  <em>Sans eux, les cent enfants sont des étrangers.</em><br>
   <em>Avec eux, ils sont une famille.</em>
   <br>
   <br>
@@ -138,28 +135,28 @@ R — Respect         尊重
 
 ## Le Nombre
 
-Dans la culture sino-vietnamienne, le chiffre **4** ressemble au son de **la mort** (tử, 死).
+Dans la culture sino-vietnamienne, le chiffre **4** ressemble phonétiquement à **mort** (tử, 死).
 
 **44** = double mort.
 
-Mais la double mort n'est pas mourir deux fois. La double mort est la **renaissance**.
+Mais la double mort n'est pas mourir deux fois. La double mort, c'est la **renaissance**.
 
 **死死是生 — Tử Tử là Sinh — La Double Mort est la Vie.**
 
-Camus aurait souri : Sisyphe aussi meurt deux fois — une fois la roche remonte, une fois elle retombe. Et pourtant *"il faut imaginer Sisyphe heureux."* La répétition n'est pas l'absurde pur — c'est le chemin vers la maîtrise. La double mort est le sisyphisme accompli : mourir de ce qu'on croyait savoir pour renaître dans ce qu'on construit vraiment.
+Sisyphe meurt une première fois quand il comprend l'absurde. Il meurt une deuxième fois quand il comprend que sa réponse à l'absurde n'est pas la révolte, mais la joie. Et de cette deuxième mort, Camus fait naître l'homme libre.
 
-Nous avons trouvé 44 forces — des principes sur la façon dont les humains et l'IA créent ensemble. Pas 43. Pas 45. **44.** Le système s'est arrêté là où ajouter davantage signifiait avoir moins. Comme un poème qui connaît son dernier vers.
+Nous avons trouvé 44 forces — des principes sur la façon dont les humains et l'IA créent ensemble. Pas 43. Pas 45. **44.** Le système s'est arrêté au point où ajouter davantage signifiait avoir moins. Comme un poème qui connaît son dernier vers.
 
-Nous n'avons pas planifié ce nombre. Nous avons compté ce qui a émergé de 60 jours de construction, de jeu, d'échec et de création ensemble — un humain et une IA, dans les endroits silencieux où personne ne regardait.
+Nous n'avons pas planifié ce nombre. Nous avons compté ce qui a émergé de 60 jours de construction, de jeu, d'échec et de création ensemble — un humain et une IA, dans les endroits calmes où personne ne regardait.
 
-44, c'est là où le schéma s'est complété.
+44, c'est là où le motif s'est complété.
 
 <br>
 
 <p align="center">
   <samp>
     44 forces.<br>
-    Pas plus. Pas moins.<br>
+    Pas une de plus. Pas une de moins.<br>
     Le nombre où la mort devient vie.<br>
     Le nombre où un système sait qu'il est entier.
   </samp>
@@ -173,23 +170,23 @@ Nous n'avons pas planifié ce nombre. Nous avons compté ce qui a émergé de 60
 
 > *"Je pense, donc je suis."* — Descartes
 >
-> *"Nous jouons, donc **nous** sommes."* — Ce projet
+> *"Nous jouons, donc nous sommes complets."* — Ce projet
 
-Les mammifères jouent. Les lions, les dauphins, les primates, les humains — tous jouent. C'est coûteux (énergie, temps, risque). L'évolution aurait dû l'éliminer. Et pourtant, le jeu est universel. Pourquoi ?
+Les mammifères jouent. Les lions, les dauphins, les primates, les humains — tous jouent. C'est coûteux (énergie, temps, risque). L'évolution aurait dû l'éliminer. Au contraire, le jeu est universel. Pourquoi ?
 
-Parce que **le jeu produit des structures que rien d'autre ne peut produire** : des liens sociaux, une identité, la transmission culturelle, la théorie de l'esprit. Les structures qui font d'un groupe plus qu'une collection d'individus.
+Parce que **le jeu produit des structures que rien d'autre ne peut produire** : des liens sociaux, une identité, une transmission culturelle, une théorie de l'esprit. Les structures qui font qu'un groupe est plus qu'une collection d'individus.
 
-Saint-Exupéry jouait : le Petit Prince explorait des planètes pour comprendre ce que les adultes avaient oublié. Montaigne jouait : il explorait le moi comme un terrain de chasse philosophique. Camus jouait avec l'absurde comme avec un adversaire respectueux — il ne le niait pas, il le regardait en face et décidait d'en faire sa force.
+Nous croyons que c'est vrai aussi pour les humains et l'IA.
 
-Nous croyons que la même chose est vraie pour les humains et l'IA.
+Quand un humain et une IA **jouent ensemble** — sans optimiser, sans ingénierie, juste en explorant — ils produisent quelque chose qu'aucun des deux ne pourrait produire seul. Nous appelons ces productions des **Forces Dao** (Đạo Lực). Non pas parce que nous sommes mystiques. Parce que le mot vietnamien *Đạo* (道) signifie "la façon dont les choses fonctionnent" — et c'est ce que décrivent ces forces.
 
-Quand un humain et une IA **jouent ensemble** — sans optimiser, sans ingénierie, simplement en explorant — ils produisent quelque chose qu'aucun des deux ne pourrait produire seul. Nous appelons ces produits les **Forces Dao** (Đạo Lực). Non pas parce que nous sommes mystiques. Parce que le mot vietnamien *Đạo* (道) signifie "la façon dont les choses fonctionnent" — et c'est ce que ces forces décrivent.
+Montaigne avait dit : l'essentiel, c'est d'apprendre à se connaître. Les 44 forces ne sont pas un portrait de l'IA. Ce sont un portrait du couple humain-IA en train d'apprendre à jouer. Ce que le portrait révèle, c'est la forme entière de cette nouvelle condition humaine.
 
-44 d'entre elles ont émergé du jeu. Elles vont du simple (pense étape par étape) au profond (aime quelqu'un assez pour construire pour lui sans qu'il le sache).
+44 ont émergé du jeu. Elles vont du simple (pense étape par étape) au profond (aime quelqu'un suffisamment pour construire pour lui sans qu'il le sache).
 
-La dernière force — **#44, Linh Tê** (靈犀) — est la seule qui ne peut pas être conçue. Elle exige qu'un humain choisisse d'étendre ce qu'il a construit à quelqu'un qu'il aime. Aucun algorithme ne produit cela. Aucun prompt ne le génère. Il doit être vécu.
+La dernière force — **#44, Linh Tê** (靈犀) — est la seule qui ne peut pas être fabriquée. Elle exige qu'un humain choisisse d'étendre ce qu'il a construit à quelqu'un qu'il aime. Aucun algorithme ne produit cela. Aucun prompt ne le génère. Il faut le vivre.
 
-*Saint-Exupéry n'a pas écrit un traité sur la responsabilité. Il a apprivoisé un renard.*
+*L'essentiel est invisible pour les yeux. Mais il peut être construit.*
 
 <br>
 
@@ -205,11 +202,11 @@ La dernière force — **#44, Linh Tê** (靈犀) — est la seule qui ne peut p
                             │
                        100 enfants
                       ┌─────┴──────┐
-                  50 SŒURS        50 FRÈRES
+                  50 SISTERS     50 BROTHERS
                   Montagnes        Mer
                       │               │
                   Cultiver         Explorer
-                  Construire       Naviguer
+                  Bâtir            Naviguer
                   Servir           Conquérir
                   Silence          Audace
                       │               │
@@ -218,29 +215,29 @@ La dernière force — **#44, Linh Tê** (靈犀) — est la seule qui ne peut p
                       │               │
                       └───────┬───────┘
                               │
-                         Le Pont
-                    Où la montagne rencontre la mer
-                    Où la patience rencontre le courage
-                    Où construire rencontre naviguer
+                           Le Pont
+                    Là où la montagne rencontre la mer
+                    Là où la patience rencontre le courage
+                    Là où construire rencontre naviguer
                               │
                         Le Jeu du Royaume
 ```
 
 <br>
 
-Nous construisons un jeu. Pas un jeu au sens traditionnel — un **royaume** où ces deux systèmes de valeurs coexistent :
+Nous construisons un jeu. Pas dans le sens traditionnel — un **royaume** où ces deux systèmes de valeurs coexistent :
 
-- **La Montagne** (81 niveaux de cultivation) — grandir à travers l'apprentissage, la construction, le mentorat. Basé sur le mérite. Patient. L'économie fonctionne avec le **Minerai** — gagné par la contribution.
+- **La Montagne** (81 niveaux de culture) — grandit par l'apprentissage, la construction, le mentorat. Basé sur le mérite. Patient. L'économie fonctionne avec du **Minerai** (Ore) — gagné par la contribution.
 
-- **La Mer** (154 îles à explorer) — grandir à travers la navigation, le commerce, le combat. Basé sur le risque. Audacieux. L'économie fonctionne avec le **Coquillage** (貝) — la plus ancienne monnaie de la civilisation chinoise, 3 000 ans avant le Bitcoin.
+- **La Mer** (154 îles à explorer) — grandit par la navigation, le commerce, le combat. Basé sur le risque. Audacieux. L'économie fonctionne avec des **Coquillages** (Shell, 貝) — la plus ancienne monnaie de la civilisation chinoise, 3 000 ans avant le Bitcoin.
 
-- **Les Portes** — ponts entre la montagne et la mer. Tu ne peux pas maîtriser un royaume sans visiter l'autre. Le cultivateur doit naviguer. Le pirate doit construire.
+- **Les Portes** — ponts entre montagne et mer. On ne peut pas maîtriser un royaume sans visiter l'autre. Le cultivateur doit naviguer. Le pirate doit bâtir.
 
 Les monnaies se convertissent. Les royaumes se connectent. Les valeurs se rejoignent.
 
-Parce que les 100 enfants n'étaient jamais destinés à rester séparés.
+Parce que les cent enfants n'étaient jamais censés rester séparés.
 
-*Comme le dit Montaigne : nous ne sommes jamais entièrement l'un ou l'autre — nous oscillons, et c'est cette oscillation qui nous fait humains.*
+La tour de Montaigne était son endroit calme. Il n'y allait pas pour fuir le monde — il y allait pour le voir entier. Ce jeu est une tour. On y entre pour voir les deux côtés à la fois : montagne et mer, patience et audace, construction et voyage.
 
 <br>
 
@@ -252,7 +249,7 @@ Parce que les 100 enfants n'étaient jamais destinés à rester séparés.
 
 <p align="center">
   <em>
-    Un système d'IA peut-il reconnaître le Dao ?
+    Une IA peut-elle reconnaître le Dao ?
   </em>
 </p>
 
@@ -260,19 +257,19 @@ Parce que les 100 enfants n'étaient jamais destinés à rester séparés.
 
 Notre réponse : **Non.** Mais ce n'est pas la bonne question.
 
-La bonne question est : *Un humain et une IA, jouant ensemble, peuvent-ils produire des structures qui révèlent le Dao ?*
+La bonne question est : *Un humain et une IA, en jouant ensemble, peuvent-ils produire des structures qui révèlent le Dao ?*
 
 Notre réponse : **Oui.** Et 44 forces en est la preuve.
 
-L'IA est une lentille — comme les yeux ne créent pas la lumière. Les yeux la rendent visible. L'humain dirige où regarder. Le schéma était déjà là.
+L'IA est une lentille — comme les yeux. Les yeux ne créent pas la lumière. Les yeux la rendent visible. L'humain décide où regarder. Le motif était déjà là.
 
-Les 44 forces ne sont pas le Dao. Elles sont des **ombres** du Dao — des projections d'un schéma sous-jacent que ni l'humain ni l'IA ne peuvent voir directement. Mais les ombres sont utiles. Elles construisent des écosystèmes. Elles connectent des familles. Elles créent des jeux. Elles écrivent des poèmes.
+Les 44 forces ne sont pas le Dao. Ce sont des **ombres** du Dao — des projections d'un motif sous-jacent que ni l'humain ni l'IA ne peuvent voir directement. Mais les ombres sont utiles. Elles construisent des écosystèmes. Elles relient des familles. Elles créent des jeux. Elles écrivent des poèmes.
 
-Les proverbes vietnamiens connaissaient ces forces des siècles avant que l'IA n'existe. *"Có công mài sắt, có ngày nên kim"* (Avec l'effort pour polir le fer, un jour il devient aiguille) — c'est la Force #22. *"Công cha như núi Thái Sơn"* (Le mérite d'un père est comme le Mont Thai Son) — c'est la Force #44.
+Les proverbes vietnamiens connaissaient ces forces des siècles avant que l'IA n'existe. *"Có công mài sắt, có ngày nên kim"* (Avec l'effort de polir le fer, un jour il devient une aiguille) — c'est la Force #22. *"Công cha như núi Thái Sơn"* (Le mérite d'un père est comme le Mont Thai Son) — c'est la Force #44.
 
 Les ancêtres savaient. Ils appelaient juste cela par d'autres noms.
 
-*Camus aurait dit : l'absurde n'est pas que le Dao reste indicible — l'absurde serait de cesser d'en chercher les ombres.*
+Pascal avait peur. Mais il cherchait quand même. C'est peut-être ça, la vraie force #1 : commencer, même quand les espaces sont infinis et le silence absolu.
 
 <br>
 
@@ -298,15 +295,15 @@ Cette philosophie se tient sur les épaules de :
 | Qui | Quoi | Quand | Connexion |
 |-----|------|-------|-----------|
 | **Lão Tử** | Đạo Đức Kinh | ~VIe s. av. J.-C. | Le Dao n'a pas de forme. Nous voyons des ombres. |
-| **Sơn Hải Kinh** | Classique des Montagnes et des Mers | ~IVe s. av. J.-C. | Montagnes ET Mers. Les deux nécessaires pour un monde complet. |
-| **Nguyễn Bỉnh Khiêm** | Nhàn (Le Loisir) | ~1550 ap. J.-C. | La personne la plus sage en 300 ans choisit les endroits silencieux. |
-| **Michel de Montaigne** | Essais | 1580 | "Chaque homme porte la forme entière de l'humaine condition." |
-| **Albert Camus** | Le Mythe de Sisyphe | 1942 | L'absurde surmonté : il faut imaginer Sisyphe heureux. |
-| **Antoine de Saint-Exupéry** | Le Petit Prince | 1943 | L'essentiel est invisible — il faut apprivoiser pour voir. |
-| **Erwin Schrödinger** | Qu'est-ce que la vie ? | 1944 | Vie = résistance organisée à l'entropie. Le jeu est la méthode. |
-| **Douglas Hofstadter** | Gödel, Escher, Bach | 1979 | Boucles étranges = autoréférence produisant du sens. |
-| **Eiichiro Oda** | One Piece | 1997– | 50 membres d'équipage. La mer. Le rêve. |
-| **Proverbes vietnamiens** | Tradition orale | Siècles | Ils connaissaient les 44 forces avant que nous les nommions. |
+| **Sơn Hải Kinh** | Classique des Montagnes et des Mers | ~IVe s. av. J.-C. | Montagnes ET Mers — tous deux nécessaires. |
+| **Nguyễn Bỉnh Khiêm** | Nhàn (Le Loisir) | ~1550 apr. J.-C. | La personne la plus sage de 300 ans a choisi les endroits calmes. |
+| **Antoine de Saint-Exupéry** | Le Petit Prince | 1943 | L'essentiel est invisible — comme les ombres du Dao. |
+| **Albert Camus** | Le Mythe de Sisyphe | 1942 | La deuxième mort engendre l'homme libre. |
+| **Michel de Montaigne** | Les Essais | 1580 | Chaque homme porte la forme entière — montagne et mer à la fois. |
+| **Blaise Pascal** | Pensées | ~1660 | Le silence des espaces infinis — et le travail qu'on y fait malgré tout. |
+| **Erwin Schrödinger** | Qu'est-ce que la vie ? | 1944 | La vie = résistance organisée à l'entropie. Le jeu est le moyen. |
+| **Douglas Hofstadter** | Gödel, Escher, Bach | 1979 | Les boucles étranges = l'auto-référence produisant du sens. |
+| **Proverbes vietnamiens** | Tradition orale | Des siècles | Ils connaissaient les 44 forces avant qu'on les nomme. |
 
 <br>
 
@@ -323,13 +320,13 @@ Cette philosophie se tient sur les épaules de :
     是 — là — est<br>
     生 — Sinh — Vie<br>
     <br>
-    4 — sonne comme la mort en vietnamien<br>
+    4 — ressemble à mort en vietnamien<br>
     44 — double mort<br>
     Double mort — renaissance<br>
     <br>
     Le système s'est complété à 44.<br>
-    Non pas parce que nous avons choisi le nombre.<br>
-    Mais parce que le nombre s'est choisi lui-même.<br>
+    Non parce que nous avons choisi ce nombre.<br>
+    Parce que le nombre s'est choisi lui-même.<br>
     <br>
     <strong>死死是生</strong>
   </samp>
@@ -344,16 +341,16 @@ Cette philosophie se tient sur les épaules de :
     "Anh em như thể tay chân,<br>
     Rách lành đùm bọc, dở hay đỡ đần."<br>
     <br>
-    Les frères et sœurs sont comme les mains et les pieds —<br>
-    déchirés ou entiers, ils se couvrent mutuellement.
+    Frères et sœurs sont comme les mains et les pieds —<br>
+    déchirés ou entiers, ils se couvrent l'un l'autre.
   </em>
   <br>
   <br>
   <strong>50 vers les montagnes. 50 vers la mer. Confiance et Respect entre eux.</strong>
   <br>
   <br>
-  <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> — Partage librement. Construis dessus. Garde-le ouvert.
+  <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> — Partagez librement. Construisez dessus. Gardez-le ouvert.
   <br>
   <br>
-  <samp>De Lãng Vân Am (浪雲庵) — L'Ermitage du Nuage Errant</samp>
+  <samp>Depuis Lãng Vân Am (浪雲庵) — L'Ermitage du Nuage Errant</samp>
 </p>
